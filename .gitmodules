@@ -7,3 +7,6 @@
 [submodule "BTH2_Android.git"]
 	path = BTH2_Android.git
 	url = https://github.com/huyhhoangg/BTH2_Android.git
+[submodule "BTH3_Android.git"]
+	path = BTH3_Android.git
+	url = https://github.com/huyhhoangg/BTH3_Android.git
