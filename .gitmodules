@@ -19,3 +19,6 @@
 [submodule "BTH5_Android.git"]
 	path = BTH5_Android.git
 	url = https://github.com/huyhhoangg/BTH5_Android.git
+[submodule "BTH4.1_Android"]
+	path = BTH4.1_Android
+	url = https://github.com/huyhhoangg/BTH4.1_Android.git
